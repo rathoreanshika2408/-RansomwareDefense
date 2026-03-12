@@ -26,6 +26,6 @@ ransomware attacks in real-time using machine learning and behavioral analysis.
 4. ML model classifies behavior as Normal/Suspicious/Ransomware
 5. Risk score calculated and user alerted instantly
 
-## 📱 Requirements
+##Requirements
 - Android 8.0+ (API 26)
 - Storage permissions
