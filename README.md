@@ -1,4 +1,4 @@
-#AI-Driven Android Ransomware Defense System
+#AI-Driven Android Ransomware Defense System (just MVP)
 
 An intelligent Android security application that detects and prevents 
 ransomware attacks in real-time using machine learning and behavioral analysis.
